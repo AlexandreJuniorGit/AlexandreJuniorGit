@@ -1,6 +1,6 @@
 ## Hi, I'm Alexandre, nice to meet you!
 
-### Here is a little bit about myself, graduated in systems analysis and development, also studying an MBA in Software Engineering.
+### Graduated in systems analysis and development.
 I'm studying a programming language with a focus on Java, but I also have some experience with C#. Also, development tools like SpringBoot, JPA and others.
 And excuse me for my bad english, i'm yet studing...
 
